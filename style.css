@@ -182,6 +182,36 @@ footer {
   transform-origin: center center;
 }
 
+@media(max-width: 2450px) {
+  .sidepanel {
+    left: 860px;
+  }
+}
+
+@media(max-width: 2385px) {
+  .sidepanel {
+    left: 830px;
+  }
+}
+
+@media(max-width: 2200px) {
+  .sidepanel {
+    left: 800px;
+  }
+}
+
+@media(max-width: 2000px) {
+  .sidepanel {
+    left: 750px;
+  }
+}
+
+@media(max-width: 1800px) {
+  .sidepanel {
+    left: 370px;
+  }
+}
+
 @media(max-width: 1250px) {
   .sidepanel {
     left: 300px;
